@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gustavo Aguiar</h1>
 <h3 align="center">Fullstack developing studant at Trybe</h3>
 
-- 🌱 I’m currently learning **Node, Docker, Typescript**
+- 🌱 I’m currently learning **Next.js 15**
 
 - 👯 I’m looking to collaborate on **any project that brings me learning**
 
-- 🤝 I’m looking for help with **CSS**
-
-- 👨‍💻 All of my projects are available at [toBeDefined](toBeDefined)
 
 - 💬 Ask me about **React, react-redux, Javascript, HTML, CSS, Jest etc..**
 
