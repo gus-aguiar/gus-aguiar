@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Aguiar</h1>
-<h3 align="center">Fullstack developing studant at Trybe</h3>
+<h3 align="center">Fullstack developer</h3>
 
 - 🌱 I’m currently learning **Next.js 15**
 
