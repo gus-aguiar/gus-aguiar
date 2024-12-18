@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js 15**
 
-- 👯 I’m looking to collaborate on **any project that brings me learning**
+- 👯 I’m looking to collaborate on **projects that use shadcn, next15, tailwind, sanity and sentry**
 
 
 - 💬 Ask me about **React, react-redux, Javascript, HTML, CSS, Jest etc..**
