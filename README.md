@@ -21,8 +21,6 @@ Skilled Software Developer with strong background experience in both front-end a
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gustavo-p-m-aguiar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-p-m-aguiar" height="30" width="40" /></a>
-<a href="https://fb.com/gustavo.aguiar.984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gustavo.aguiar.984" height="30" width="40" /></a>
-<a href="https://instagram.com/o.gustavo.aguiar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o.gustavo.aguiar/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gustavopma90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gustavopma90" height="30" width="40" /></a>
 </p>
 
