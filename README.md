@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">Fullstack developer</h3>
 
+## 😎 Who Am I?
+
+Skilled Software Developer with strong background experience in both front-end and back-end development. Enthusiastic about creating scalable, efficient applications using cutting-edge technologies. Expertise in React, Node.js, JavaScript, TypeScript, and database management. Dedicated to delivering high-quality solutions while continuously enhancing user experiences.
+
+## 🚀 About Me
+
 - 🌱 I’m currently learning **Next.js 15**
 
 - 👯 I’m looking to collaborate on **projects that use shadcn, next15, tailwind, sanity and sentry**
