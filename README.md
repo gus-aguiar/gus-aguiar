@@ -48,7 +48,7 @@ Skilled Software Developer with strong background experience in both front-end a
       <h3 align="center">HealthierHealth</h3>
       <div align="center">
         <a href="https://healthier-health.vercel.app/" target="_blank">
-          <img src="https://via.placeholder.com/400x200?text=HealthierHealth" alt="HealthierHealth Project" width="400" height="200"/>
+          <img src="https://placehold.co/400x200?text=Healthier\nHealth" alt="HealthierHealth Project" width="400" height="200"/>
         </a>
         <p><strong>TypeScript, React, Next.js, Node.js, PostgreSQL, Prisma, Perplexity AI, Vercel</strong></p>
         <p>A web app that evaluates health influencers' credibility using AI-powered claim verification.</p>
@@ -59,7 +59,7 @@ Skilled Software Developer with strong background experience in both front-end a
       <h3 align="center">Next.js 15 Starter</h3>
       <div align="center">
         <a href="https://next-starter-umber-six.vercel.app/" target="_blank">
-          <img src="https://via.placeholder.com/400x200?text=NextStarter" alt="NextStarter Project" width="400" height="200"/>
+          <img src="https://placehold.co/400x200?text=Next\nStarter" alt="NextStarter Project" width="400" height="200"/>
         </a>
         <p><strong>Next.js 15, Sanity, Sentry, Tailwind CSS, Vercel</strong></p>
         <p>A comprehensive study project showcasing Next.js 15's cutting-edge features and best practices.</p>
