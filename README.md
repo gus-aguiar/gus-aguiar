@@ -171,5 +171,5 @@ My comprehensive portfolio website is currently under development. Check back so
 
 <div align="center">
   <p>⭐️ From <a href="https://github.com/gus-aguiar">Gustavo Aguiar</a></p>
-  <p>"Try not. Do. Or do not. There is no try." - Master Yoda</p>
+  <p> 🗝️ "Try not. Do. Or do not. There is no try." - Master Yoda  🗝️</p>
 </div>
