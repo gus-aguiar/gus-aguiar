@@ -18,10 +18,10 @@ Skilled Software Developer with strong background experience in both front-end a
 ## 🚀 About Me
 
 - 🌱 I'm currently learning **Next.js 15** and **Tailwind 14**
-- 👯 I'm looking to collaborate on **any project that i find challenging**
+- 👯 I'm looking to collaborate on **any challenging project**
 - 💬 Ask me about **React, react-redux, Javascript, HTML, CSS, Jest etc..**
 - 📫 How to reach me **gustavopma90@gmail.com**
-- ⚡ Fun fact **I love to compose my own music :)**
+- ⚡ Fun fact **I like compose my own songs :)**
 
 ### Connect with me:
 
@@ -42,29 +42,32 @@ Skilled Software Developer with strong background experience in both front-end a
 
 ## 📌 Featured Projects
 
-### HealthierHealth
-**A web app that evaluates health influencers' credibility using AI-powered claim verification.**
-
-**Features:**
-- Automated health claim analysis
-- Real-time trust score calculation
-- Interactive influencer leaderboard
-
-**Main technologies:** React, Next.js, Node.js, PostgreSQL, Prisma, Perplexity AI, Vercel
-
-**[Live Demo](https://healthier-health.vercel.app/)** | **[GitHub Repository](https://github.com/gus-aguiar/HealthierHealth)**
-
-### Next.js 15 Starter
-**A comprehensive study project showcasing Next.js 15's cutting-edge features and best practices.**
-
-**Features:**
-- Partial Pre-rendering implementation
-- Modern content management with Sanity
-- Error tracking and monitoring with Sentry
-
-**Main technologies:** Next.js 15, Sanity, Sentry, Tailwind CSS, Vercel
-
-**[Live Demo](https://next-starter-umber-six.vercel.app/)** | **[GitHub Repository](https://github.com/gus-aguiar/NextStarter)**
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">HealthierHealth</h3>
+      <div align="center">
+        <a href="https://healthier-health.vercel.app/" target="_blank">
+          <img src="https://via.placeholder.com/400x200?text=HealthierHealth" alt="HealthierHealth Project" width="400" height="200"/>
+        </a>
+        <p><strong>TypeScript, React, Next.js, Node.js, PostgreSQL, Prisma, Perplexity AI, Vercel</strong></p>
+        <p>A web app that evaluates health influencers' credibility using AI-powered claim verification.</p>
+        <p><a href="https://github.com/gus-aguiar/HealthierHealth">GitHub Repository</a></p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Next.js 15 Starter</h3>
+      <div align="center">
+        <a href="https://next-starter-umber-six.vercel.app/" target="_blank">
+          <img src="https://via.placeholder.com/400x200?text=NextStarter" alt="NextStarter Project" width="400" height="200"/>
+        </a>
+        <p><strong>Next.js 15, Sanity, Sentry, Tailwind CSS, Vercel</strong></p>
+        <p>A comprehensive study project showcasing Next.js 15's cutting-edge features and best practices.</p>
+        <p><a href="https://github.com/gus-aguiar/NextStarter">GitHub Repository</a></p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 🖥️ Portfolio
 
@@ -168,5 +171,4 @@ My comprehensive portfolio website is currently under development. Check back so
 
 <div align="center">
   <p>⭐️ From <a href="https://github.com/gus-aguiar">Gustavo Aguiar</a></p>
-<p>Final disclaimer: The baby yoda is there to warn recruiters that anyone can modify the commit graph, so don't believe in everything you see ;) </p>
 </div>
