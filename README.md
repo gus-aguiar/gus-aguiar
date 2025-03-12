@@ -119,10 +119,10 @@ My comprehensive portfolio website is currently under development. Check back so
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+| [spotnews](https://github.com/gus-aguiar/spotnews) | Application that stores news that can be categorized by a registered user | Python, Django | 
 | [notgoogle](https://github.com/gus-aguiar/notgoogle) | Search engine project | Python, Pytest |
 | [algorithms](https://github.com/gus-aguiar/algorithms) | Algorithm implementations | Python, Pytest |
 | [technews](https://github.com/gus-aguiar/technews) | Tech news aggregator | Python, Pytest |
-| [spotnews](https://github.com/gus-aguiar/spotnews) | Application that stores news that can be categorized by a registered user | Python, Pytest, Pymongo | 
 | [pro-filter](https://github.com/gus-aguiar/pro-filter) | Data filtering tool | Python |
 | [inventory-report](https://github.com/gus-aguiar/inventory-report) | Inventory reporting system | Python |
 
