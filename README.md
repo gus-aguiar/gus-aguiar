@@ -88,9 +88,6 @@ My comprehensive portfolio website is currently under development. Check back so
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [the-news-gamification](https://github.com/gus-aguiar/the-news-gamification) | Private project | TypeScript |
-| [PeakOneChallenge](https://github.com/gus-aguiar/PeakOneChallenge) | Public challenge project | TypeScript |
-| [Astrostarter](https://github.com/gus-aguiar/Astrostarter) | Starter template for Astro projects | Astro |
 | [dataFiller](https://github.com/gus-aguiar/dataFiller) | Chrome extension to automatically fill forms with mock data | JavaScript |
 | [space-app](https://github.com/gus-aguiar/space-app) | Space-themed application | JavaScript |
 | [dungeons-and-dragons](https://github.com/gus-aguiar/dungeons-and-dragons) | Application to search for albums and songs from artists, listen to previews and add favorite songs to a list | TypeScript, React, CSS, HTML, API |
