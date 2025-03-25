@@ -73,7 +73,9 @@ Skilled Software Developer with strong background experience in both front-end a
 
 🚧 **Work in Progress** 🚧
 
-My comprehensive portfolio website is currently under development. Check back soon to see a showcase of my projects and skills in action!
+
+[Here!](https://gus-aguiar-portfolio.vercel.app/) 
+
 
 ## 📋 Projects Summary
 
