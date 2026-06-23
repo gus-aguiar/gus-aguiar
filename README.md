@@ -170,6 +170,5 @@ Skilled Software Developer with strong background experience in both front-end a
 
 <div align="center">
   <p>⭐️ From <a href="https://github.com/gus-aguiar">Gustavo Aguiar</a></p>
-  <p> 🗝️ "Try not. Do. Or do not. There is no try." - Master Yoda  🗝️</p>
-   <p> Dear recruiter, please go back to 2024 in my prs to see master yoda, and basicly he`s there for you to learn that you can`t trust this to see the dev`s activity, this is easily modified</p>
+  
 </div>
