@@ -1,27 +1,32 @@
 ## Gustavo Aguiar
 
-**Product Engineer** at [Prolog](https://github.com/prologapp), a fleet-management SaaS. I work full stack, with React/TypeScript on the front and Java/Spring on the back, and I own features from the problem through to production.
+**Product Engineer at [Prolog](https://github.com/prologapp)**: full stack with React/TypeScript and Java.
 
-Lately I've also been building **AI agent harnesses**: the tooling, guardrails and feedback loops that let coding agents ship real work safely in a production codebase.
+I like owning a problem end to end: understanding what the operator actually needs, shaping the solution with product and design, and shipping it across the frontend, the API and the database. These days a big part of that is making AI agents genuinely useful in a real production codebase.
 
-### What I do at Prolog
+---
 
-- **Led the Fleet Dashboard from scratch to production.** I built a config-driven dashboard engine (component registry, KPI card engine, shared context) that later dashboards such as CPK, Safety and Maintenance now reuse.
-- **Delivered over 95 merged PRs** in the main React app, using a micro-frontend architecture (Module Federation) on top of our in-house design system.
-- **Contribute to the Java backend** (Spring Boot, MyBatis, PostgreSQL), so a feature doesn't stall at the API boundary.
-- **Build the team's agent workflow:** scheduled "sentinel" agents, review loops, and E2E test-authoring agents grounded in the real selectors and routes.
+### Product
 
-### Selected work
+**Fleet analytics platform.** I led Prolog's fleet dashboards from a blank page to production. Instead of building one-off screens, I designed a config-driven engine (component registry, KPI engine, shared data context, chart library) so that each new dashboard is mostly configuration. The Fleet, CPK, Safety and Maintenance dashboards all run on it.
 
-| Project | What it is |
-|---|---|
-| [**fantasmas**](https://github.com/gus-aguiar/fantasmas) | Go terminal UI that orchestrates a fleet of coding agents in one pane: missions, tasks, questions waiting on a human, PRs and CI status. |
-| [**HealthierHealth**](https://github.com/gus-aguiar/HealthierHealth) | Next.js + Prisma app that scores health influencers' credibility using LLM-based claim verification. |
+**Micro-frontend platform.** I work in a Module Federation architecture on top of our in-house design system, which means balancing feature speed against keeping shared contracts stable for other teams.
 
-### Stack
+**Backend when it's needed.** I write Spring Boot, MyBatis and PostgreSQL code, so the features I own don't stop at the API boundary.
 
-`TypeScript` `React` `Next.js` `Module Federation` · `Java` `Spring Boot` `MyBatis` `PostgreSQL` · `Node.js` `Go` `Python` · `Playwright` `Jest` · `Docker` · `Claude Code / agent tooling`
+### Agent engineering
 
-### Reach me
+I build the harness around coding agents: the context, guardrails and feedback loops that turn them from autocomplete into teammates.
+
+- **[fantasmas](https://github.com/gus-aguiar/fantasmas)** is a Go TUI that lets me run a fleet of agents from one terminal. It tracks missions and tasks, surfaces the questions that need a human, and follows each PR through CI.
+- **Scheduled sentinel agents** audit repos overnight and report back with evidence.
+- **E2E test agents** discover real selectors and routes before writing Playwright specs, so the tests match the app as it is, not as an agent imagines it.
+- **Team skills and review loops** encode how we ship (merge gates, verification before "done", database safety), so agents follow the same rules engineers do.
+
+### Toolbox
+
+`TypeScript` `React` `Next.js` `Module Federation` · `Java` `Spring Boot` `MyBatis` `PostgreSQL` · `Go` `Node.js` `Python` · `Playwright` `Jest` · `Docker` · `Claude Code`
+
+---
 
 [LinkedIn](https://linkedin.com/in/gustavo-p-m-aguiar) · gustavopma90@gmail.com
