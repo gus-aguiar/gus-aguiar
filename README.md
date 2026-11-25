@@ -4,6 +4,8 @@
 
 I like owning a problem end to end: understanding what the operator actually needs, shaping the solution with product and design, and shipping it across the frontend, the API and the database. These days a big part of that is making AI agents genuinely useful in a real production codebase.
 
+Live projects and case studies: **[Portfolio](https://72-60-148-65.sslip.io)**
+
 ---
 
 ### Product
@@ -29,4 +31,4 @@ I build the harness around coding agents: the context, guardrails and feedback l
 
 ---
 
-[LinkedIn](https://linkedin.com/in/gustavo-p-m-aguiar) · gustavopma90@gmail.com
+[Portfolio](https://72-60-148-65.sslip.io) · [LinkedIn](https://linkedin.com/in/gustavo-p-m-aguiar) · gustavopma90@gmail.com
